@@ -1,4 +1,5 @@
 # Hack and Slash Game
+  Requires Python 3 & PyGame  
   
 - 60 FPS
 - Sine, cosine, & slope intercept formula used to slice images/enemies
