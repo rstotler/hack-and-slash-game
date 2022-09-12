@@ -1,8 +1,8 @@
 # Hack And Slash Game
   
 - 60 FPS
-- Sine/cosine used to calculate slope to slice images
-- Supports many instances of enemies at once
+- Sine, cosine, & slope intercept formula used to slice images/enemies
+- Supports many simultanious instances of enemies on screen
   
 ## Gameplay
   
