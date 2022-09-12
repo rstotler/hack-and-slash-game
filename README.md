@@ -1,4 +1,4 @@
-# Hack And Slash Game
+# Hack and Slash Game
   
 - 60 FPS
 - Sine, cosine, & slope intercept formula used to slice images/enemies
