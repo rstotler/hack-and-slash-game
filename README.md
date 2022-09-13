@@ -3,6 +3,7 @@
   
 - 60 FPS
 - Sine, cosine, & slope intercept formula used to slice images/enemies
+- Alpha channel blending used in mob sprite effects
 - Supports many simultanious instances of enemies on screen
   
 ## Gameplay
